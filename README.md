@@ -1,5 +1,5 @@
-# Abrl 
-# Adaptive Bias Correction Layer
+# ABRL
+# Adaptive Bias Reflective Layer
 
 This project provides a PyTorch layer designed to reduce biases in AI models, developed with the assistance of Grok (xAI), ChatGPT (OpenAI), and Claude (Anthropic). It uses multi-scale projections and KL divergence to correct biases in model representations.
 
