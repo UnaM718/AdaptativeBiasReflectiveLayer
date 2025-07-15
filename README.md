@@ -9,6 +9,9 @@ The goal of this layer is to make AI models fairer by dynamically adjusting thei
 ## Context
 - The code was generated and optimized by Grok, ChatGPT, and Claude.
 - I am not a computer scientist and cannot answer technical questions. Please contribute via issues or pull requests.
+ 
+## Contribution
+Experts are invited to test, validate, or enhance this code. Please open an issue or pull request to contribute.
 
 ## License
 - This project is licensed under the MIT license (see the [LICENSE](LICENSE) file).
