@@ -10,6 +10,9 @@ The goal of this layer is to make AI models fairer by dynamically adjusting thei
 - The code was generated and optimized by Grok, ChatGPT, and Claude.
 - I am not a computer scientist and cannot answer technical questions. Please contribute via issues or pull requests.
 
+## License
+- This project is licensed under the MIT license (see the LICENSE file).
+
 ## Usage
 ```python
 import torch
@@ -18,3 +21,6 @@ from bias_correction_layer import AdaptiveBiasReflectiveLayerV7
 layer = AdaptiveBiasReflectiveLayerV7(hidden_dim=768)
 x = torch.randn(16, 24, 768)
 output = layer(x)
+
+
+
