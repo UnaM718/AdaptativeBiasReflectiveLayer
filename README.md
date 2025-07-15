@@ -6,6 +6,9 @@ This project provides a PyTorch layer designed to reduce biases in AI models, de
 ## Purpose
 The goal of this layer is to make AI models fairer by dynamically adjusting their outputs. It is released as open source to allow experts to test and improve it.
 
+## Potential Innovation 
+This layer introduces a novel approach to bias correction in AI models, combining multi-scale projections with KL divergence-based adjustments for dynamic bias mitigation. Features like exponential moving averages for tracking statistics and adaptive correction thresholds may offer unique advantages for improving model fairness. Experts are encouraged to evaluate its effectiveness and potential impact in real-world applications. 
+
 ## Context
 - The code was generated and optimized by Grok, ChatGPT, and Claude.
 - I am not a computer scientist and cannot answer technical questions. Please contribute via issues or pull requests.
