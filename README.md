@@ -19,6 +19,13 @@ Experts are invited to test, validate, or enhance this code. Please open an issu
 ## License
 - This project is licensed under the MIT license (see the [LICENSE](LICENSE) file).
 
+## Disclaimer
+This module includes code that was partially generated with the assistance of large language models (Claude, ChatGPT, Grok), then manually refined and validated. 
+
+It is provided for educational, research, and general-purpose development use only. The author does not take responsibility for any downstream use that may violate the terms of service of the AI tools involved.
+
+Users are solely responsible for ensuring that their use of this module complies with applicable terms, especially when integrating it into systems that compete with or replicate the functionality of proprietary AI models.
+
 ## Usage
 ```python
 import torch
